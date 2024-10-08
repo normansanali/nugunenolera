@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nugunenolera.pages.dev/sitemap.xml
